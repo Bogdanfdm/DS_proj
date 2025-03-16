@@ -40,3 +40,5 @@ dfs2.loc[dfs2['already_client_years']==0, 'already_client_years']=[
 
 
 print(dfs2)
+
+# Let`s normalize data, encode and start create model
